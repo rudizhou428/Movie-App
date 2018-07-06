@@ -1,0 +1,16 @@
+Adventure 15812 15812
+Biography -6744 2248
+Drama 73300 14660
+Thriller 28368 9456
+Comedy 79950 15990
+Action 51330 17110
+Fantasy 47820 9564
+War -5466 1822
+Horror 11510 2302
+Family -19314 6438
+Sci-Fi 23814 7938
+Mystery 25060 5012
+Sport 2490 830
+Romance 28950 9650
+Crime 17622 5874
+Animation 21730 4346

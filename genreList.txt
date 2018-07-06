@@ -1,0 +1,16 @@
+Adventure
+Biography
+Drama
+Thriller
+Comedy
+Action
+Fantasy
+war
+Horror
+Family
+Sci-Fi
+Mystry
+Sport
+Romance
+Crime
+Animation
